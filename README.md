@@ -1,4 +1,4 @@
-# Movie List App
+# Aplicativo de Lista de Filmes
 
 ## Objetivo
 Aplicação React para gerenciar uma lista de filmes, permitindo adicionar filmes com título, ano e gênero, marcar/desmarcar como favoritos, excluir filmes e pesquisar filmes já adicionados.

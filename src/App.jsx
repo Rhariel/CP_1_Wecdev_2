@@ -27,7 +27,7 @@ function App() {
 
   return (
     <div className="container mx-auto p-4">
-      <h1 className="text-3xl font-bold text-center mb-8">Movie List App</h1>
+      <h1 className="text-3xl font-bold text-center mb-8">Aplicativo de Lista de Filmes</h1>
       <MovieForm onAddMovie={addMovie} />
       <SearchBar searchTerm={searchTerm} onSearchChange={setSearchTerm} />
       <MovieList

@@ -3,7 +3,7 @@ const SearchBar = ({ searchTerm, onSearchChange }) => {
     <div className="mb-6">
       <input
         type="text"
-        placeholder="Search movies..."
+        placeholder="Pesquisar filmes..."
         value={searchTerm}
         onChange={(e) => onSearchChange(e.target.value)}
         className="w-full p-2 border border-gray-300 rounded"
